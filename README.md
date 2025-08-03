@@ -56,28 +56,3 @@ This repository presents a comprehensive analysis of U.S. macroeconomic indicato
 ├── outputs/           # Charts, plots, and exported figures
 ├── models/            # KMeans clustering results and model objects
 ├── README.md
-
-Key Insights
-Fed interest rate policy followed three distinct regimes tied to economic shocks.
-
-M2 growth and CPI are strongly correlated, supporting monetary theory.
-
-Fed rate hikes in 2022–2023 were sharp, with inflation responding after a delay.
-
-SOFR, Fed Funds Rate, and Treasury Yield are tightly interlinked.
-
-KMeans clustering effectively segments macro conditions for policy interpretation.
-
-📌 Recommendations
-Policymakers should account for policy lags and monitor money supply growth closely.
-
-Economic models should incorporate regime-based behavior rather than assume linearity.
-
-Machine learning tools can enhance real-time monitoring and early warning systems.
-
-📬 Contact
-For questions or collaboration opportunities, please contact:
-📧 your.email@example.com
-🔗 LinkedIn: [Your Name]
-
-This repository is for educational and research purposes. Data sources are publicly available and cited in the full report.
